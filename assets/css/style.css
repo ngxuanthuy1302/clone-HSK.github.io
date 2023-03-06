@@ -1,7 +1,9 @@
 * {
     margin: 0;
     padding: 0;
+    border: 0;
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 body {
     letter-spacing: 0.6px;
